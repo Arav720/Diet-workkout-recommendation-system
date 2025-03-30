@@ -1,4 +1,4 @@
-Diet Workout Recommendation System Using Machine Learning Python | Create Your Personalized Diet and Workout Plan: An End-to-End Web Application Tutorial
+Diet Workout Recommendation System Using Machine Learning Python | Create Your Personalized Diet and Workout Plan: An End-to-End Web Application 
 
 
 Unlock your fitness potential with our comprehensive guide to creating a personalized diet and workout planner. 
